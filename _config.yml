@@ -42,13 +42,13 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: mkie0125@gmail.com
+  email: gitomiko@live.com
   facebook:
-  github: andrewhwanpark/brutalist-blog
-  instagram: andrewhwanpark
-  linkedin: andrewhwanpark
+  github: gitomiko
+  instagram: gitomiko
+  linkedin: gitomiko
   rss: # just type anything here for a working RSS icon
-  twitter: andrewhwanpark
+  twitter: gitomiko
 
 plugins:
   - jekyll-seo-tag
