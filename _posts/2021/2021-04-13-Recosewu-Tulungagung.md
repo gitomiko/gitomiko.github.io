@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recosewu Tulungagung
+title: Recosewu|Tulungagung
 ---
 
 3D Scan Expedition
