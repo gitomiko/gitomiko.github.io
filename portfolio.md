@@ -13,6 +13,3 @@ permalink: /portfolio/
 ![[3D Modeling/Scan](linktoimage)]()
 ![[AI Based]({{site.baseurl}}/assets/images/sample_portfolio/4.jpg)]()
 ![[Architectural]({{site.baseurl}}/assets/images/sample_portfolio/5.jpg)]()
-
-
-# Tambah Gede
