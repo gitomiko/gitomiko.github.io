@@ -29,6 +29,8 @@ url: gitomiko.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+theme_mode:   [light|dark]
+
 # global author information
 author: andrew-park
 
