@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Anggito Jatmiko is a Yogyakarta based Architect and New Media Artist.
+He mostly worked on the practice between the correlation of space and human pattern language. 
+Currently, he tries to explore every possible outcome and issue of the Computational Process that is related to his area of expertise.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gitomiko@live.com](mailto:gitomiko@live.com)

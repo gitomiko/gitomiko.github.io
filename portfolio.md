@@ -4,12 +4,12 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-### Sample Portfolio
+### Portofolio
 
-These are screencaps from Chungking Express
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/images/sample_portfolio/1.jpg)
-![Chungking Express Screencap 2]({{site.baseurl}}/assets/images/sample_portfolio/2.jpg)
-![Chungking Express Screencap 3]({{site.baseurl}}/assets/images/sample_portfolio/3.jpg)
-![Chungking Express Screencap 4]({{site.baseurl}}/assets/images/sample_portfolio/4.jpg)
-![Chungking Express Screencap 5]({{site.baseurl}}/assets/images/sample_portfolio/5.jpg)
+[![Orchestra]({{site.baseurl}}/assets/images/sample_portfolio/1.jpg)](https://gitomiko.github.io/2022/08/11/Test/)
+![[Kasadasa | Hymne (17+10)]({{site.baseurl}}/assets/images/sample_portfolio/2.jpg)](https://gitomiko.github.io/2021/04/02/Kasadasa-Hymne(17+10))
+![[Piercing // Perceiving]({{site.baseurl}}/assets/images/sample_portfolio/3.jpg)]()
+![[3D Modeling/Scan](linktoimage)]()
+![[AI Based]({{site.baseurl}}/assets/images/sample_portfolio/4.jpg)]()
+![[Architectural]({{site.baseurl}}/assets/images/sample_portfolio/5.jpg)]()

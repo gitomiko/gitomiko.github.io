@@ -9,6 +9,7 @@ blockquote {
 
 img {
   @extend .img-fluid;
+  margin-bottom: 1rem;
 }
 
 .navbar {
@@ -28,10 +29,6 @@ img {
 
 .archive-item {
   margin-bottom: 0.5rem;
-}
-
-.wrap-for-sticky-footer {
-  min-height: 100%;
 }
 
 .footer-container {
@@ -60,11 +57,20 @@ img {
 }
 
 .highlight {
-  background-color: #272822;
+  background-color: #ffffff;
 }
 
 pre.highlight {
   padding: 1rem;
+}
+
+.dark-avatar {
+  display: none !important;
+}
+
+.light-avatar,
+.dark-avatar {
+  margin-right: 0.25rem !important;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -81,5 +87,12 @@ pre.highlight {
 
   .archive-title {
     color: #e1e1e1;
+  }
+
+  .light-avatar {
+    display: none !important;
+  }
+  .dark-avatar {
+    display: inline-block !important;
   }
 }
