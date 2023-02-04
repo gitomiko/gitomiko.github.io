@@ -18,7 +18,7 @@ darkavatar: /assets/images/dark_bauhaus_logo.png
 tagline: Input | Output
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: Architecture and Machine
+description: Input Output
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: gitomiko.github.io
@@ -38,17 +38,17 @@ logo: /assets/images/light_bauhaus_logo.png
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: mkie0125@gmail.com
-  facebook:
-  github: andrewhwanpark/brutalist-blog
-  instagram: andrewhwanpark
-  linkedin: andrewhwanpark
+  email: gitomiko@live.com
+  facebook: anggitojatmiko
+  github: gitomiko
+  instagram: gitomiko
+  linkedin: gitomiko
   rss: # just type anything here for a working RSS icon
-  twitter: andrewhwanpark
+  twitter: gitomiko
 
 plugins:
   - jekyll-seo-tag
