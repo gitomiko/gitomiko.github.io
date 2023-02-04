@@ -73,10 +73,10 @@ pre.highlight {
   margin-right: 0.25rem !important;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   .footer-icon-links {
     text-decoration: none;
-    color: #e1e1e1;
+    color: rgb(0, 0, 0);
   }
 
   .footer-icon-links:hover,
