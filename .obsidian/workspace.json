@@ -11,11 +11,17 @@
             "id": "21fef74d99d9432c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b99270027f5613cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "_posts/2023/2023-02-05-Survey-Jl.Malioboro-Part-1.md",
-                "mode": "preview",
-                "source": false
+                "currentVersion": "1.1.16"
               }
             }
           }
@@ -85,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023/2023-02-05-Survey-Jl.Malioboro-Part-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023/2023-02-05-Survey-Jl.Malioboro-Part-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023/2023-02-05-Survey-Jl.Malioboro-Part-1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +150,8 @@
   },
   "active": "21fef74d99d9432c",
   "lastOpenFiles": [
-    "_posts/2023/2023-02-04-Jl.Malioboro-OpenStreetMap.md",
     "_posts/2023/2023-02-05-Survey-Jl.Malioboro-Part-1.md",
+    "_posts/2023/2023-02-04-Jl.Malioboro-OpenStreetMap.md",
     "assets/images/2023/Jl.Malioboro-OpenStreetMap/1.png",
     "{{site.baseurl}}/assets/images/2023/5.png.md",
     "{{site.baseurl}}/assets/images/2023/4.png.md",
