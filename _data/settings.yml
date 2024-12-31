@@ -1,11 +1,11 @@
 basic_settings:
-  site_title: gitomiko
-  site_tagline: Anggito Jatmiko
+  site_title: Anggito Jatmiko
+  site_tagline: 
   favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: 
-  logo_width: 200
+  logo_width: 100
 
 menu_settings:
   menu_items:
